@@ -66,6 +66,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
+* [vx](https://github.com/hshoff/vx) - A collection of reusable low-level visualization components.
+* [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like data structure to be mutated by D3 et al, then rendered to React elements.
 
 
 ## Data Visualization Resources
